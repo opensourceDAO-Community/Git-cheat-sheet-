@@ -10,7 +10,7 @@
  * [Your First Code Contribution](#your-first-code-contribution)
  * [Pull Requests](#pull-requests)
 
-Still not sure? check out this [article](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder)
+Still not sure? check out this [article](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder). It highlight some ways you can contribute without writing a single line of code.
 
 ### Reporting Bugs
 
