@@ -26,6 +26,8 @@ This section will guides you through submitting an enhancement suggestion for Gi
 
 Unsure where to begin contributing to Git-cheat-sheet? Thats alright. These guidelines will walk you through making your first contribution! :tada:
 
+- [Making your first contribution](https://github.com/opensourceDAO-Community/First-time-contributors/blob/main/README.md)
+
 ### Pull Requests
 
 Your contribution will help the community grow but they need to follow these guidelines. :wink:
