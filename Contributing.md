@@ -32,3 +32,9 @@ Unsure where to begin contributing to Git-cheat-sheet? Thats alright. These guid
 
 Your contribution will help the community grow but they need to follow these guidelines. :wink:
 
+## Thanks :blue_heart:
+
+Thanks for all your contributions and efforts towards improving this project. 
+
+We thank you being part of our :sparkles: community :sparkles:!
+
