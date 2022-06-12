@@ -1,6 +1,29 @@
 # Git-cheat-sheet-
 A compilation of the most used and important Git commands 
 
+## Installation
+<details open>
+<summary>Find out more </summary>
+ 
+<pre>$ git --version </pre>
+
+</details>
+
+---
+
+## Git configuartion 
+<details open>
+<summary>Find out more</summary>
+
+<pre>$ git config --global user.name "[username]" </pre>
+
+<pre>$ git config --global user.email "[valid-email]" </pre>
+
+<pre>$ git config --global color.ui auto </pre>
+
+</details>
+
+---
 
 # commands 
 
