@@ -36,5 +36,5 @@ Your contribution will help the community grow but they need to follow these gui
 
 Thanks for all your contributions and efforts towards improving this project. 
 
-We thank you being part of our :sparkles: community :sparkles:!
+We thank you for being part of our :sparkles: community :sparkles:!
 
